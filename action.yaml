@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: tweeter-action
+author: Mahendra Bishnoi
+description: Github action to send a tweet.
 inputs:
   message:
     description: 'message you want to tweet'
